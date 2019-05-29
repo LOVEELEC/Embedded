@@ -1,4 +1,4 @@
-#include "si2c_stm32F4Hal.h"
+#include "si2c_Hal.h"
 #include "stm32f4xx.h"
 
 static bool SI2CHAL_DeInit(void *pvGPIOAddr, uint8_t ucClkPos, uint8_t ucpinpos);

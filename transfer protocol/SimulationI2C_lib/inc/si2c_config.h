@@ -12,7 +12,7 @@ extern "C" {
 #include "string.h"
 
 #include "si2c_delay.h"
-#include "si2c_stm32F4Hal.h"
+#include "si2c_Hal.h"
  
 /* Private define -----------------------------------------------------------*/		
 
